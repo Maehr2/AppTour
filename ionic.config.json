@@ -1,0 +1,7 @@
+{
+  "name": "apptour",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
